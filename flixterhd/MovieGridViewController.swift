@@ -43,7 +43,6 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
             self.collectionView.reloadData()
             print (self.movies)
 
-            print("Hello")
            }
         }
         task.resume()

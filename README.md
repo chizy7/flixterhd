@@ -1,4 +1,4 @@
-## Flixterhd Part 2
+## Flix Part 2
 
 ### User Stories
 
@@ -12,6 +12,7 @@
 
 ### App Walkthrough GIF
 ![](https://i.imgur.com/OosqXll.gif)
+
 
 ### Notes
 Mostly having issues with uploading my GIF to my README. Also with layouts which took some time to get it together. 
